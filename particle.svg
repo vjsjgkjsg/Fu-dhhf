@@ -1,0 +1,6 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="16" cy="16" r="12" fill="#fbbf24" opacity="0.8">
+    <animate attributeName="r" from="12" to="2" dur="1s" fill="freeze"/>
+    <animate attributeName="opacity" from="0.8" to="0" dur="1s" fill="freeze"/>
+  </circle>
+</svg>
